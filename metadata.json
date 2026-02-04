@@ -1,0 +1,5 @@
+{
+  "name": "Stuck Detector",
+  "description": "An AI-powered problem diagnosis assistant that helps students and beginners identify why they are stuck—whether it's a concept gap, logic gap, resource gap, or clarity gap—before jumping to solutions.",
+  "requestFramePermissions": []
+}
