@@ -3,8 +3,6 @@
   <p><b>Identify the block, clear the path.</b></p>
 </div>
 
----
-
 ## 📌 About the Project
 
 **Stuck Detector** is an AI-powered web application that helps users understand **why they are stuck** (in coding, learning, or any task) and provides **clear, step-by-step guidance** to move forward.
@@ -16,8 +14,6 @@ Instead of acting like a simple chatbot, the app:
 
 This makes it more of a **problem diagnosis and guidance system** rather than just a Q&A tool.
 
----
-
 ## 🚀 Features
 
 - AI-powered problem analysis using **Google Gemini API**
@@ -27,8 +23,6 @@ This makes it more of a **problem diagnosis and guidance system** rather than ju
 - Works for both coding and non-coding problems
 - Runs locally using Vite + React
 
----
-
 ## 🛠 Tech Stack
 
 - React + TypeScript  
@@ -36,8 +30,6 @@ This makes it more of a **problem diagnosis and guidance system** rather than ju
 - Tailwind CSS  
 - Google Gemini API (via Google AI Studio)  
 - Node.js  
-
----
 
 ## ⚙️ How It Works
 
@@ -52,8 +44,6 @@ This makes it more of a **problem diagnosis and guidance system** rather than ju
 **Flow:**  
 User Input → AI Analysis → Diagnosis → Action Plan
 
----
-
 ## ▶️ Run Locally
 
 ### Prerequisites
@@ -62,7 +52,6 @@ User Input → AI Analysis → Diagnosis → Action Plan
 ### Steps
 
 1. Install dependencies:
-```bash
 npm install
 
 2. Create or edit .env.local and add your API key:
